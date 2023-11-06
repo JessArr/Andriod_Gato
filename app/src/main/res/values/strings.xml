@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gatito</string>
+    <string name="textobienvenido1">Cat</string>
+    <string name="textobienvenido2">Game</string>
+    <string name="textobienvenido3">Bienvenido</string>
+    <string name="textjugador_1">Jugador:</string>
+    <string name="nuevo">nuevo</string>
+</resources>
